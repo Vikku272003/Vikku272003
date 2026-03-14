@@ -29,8 +29,6 @@ I'm **Vikasitha Malligarjunan (Vikku)** — a data professional who turns raw da
 - 💼 Previously: Data Analyst @ **Indegene** (pharma) & **Cedarstone** (finance)
 - 📊 Built pipelines processing **300K+ records/month** · Cut reporting turnaround by **25%** · Saved **10+ hours/week** via automation
 - 🌍 Based in London · **Open to relocate anywhere in the UK** · Available from June 2026
-- 🔍 Actively seeking a **sponsored permanent data role** — let's talk!
-
 ---
 
 ## 🛠️ Tech Stack
