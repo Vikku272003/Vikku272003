@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Vikku</h1>
+<h1 align="center">Hey there! I'm Vikku</h1>
 <h3 align="center">Data Professional · London, UK · Open to Relocate 🇬🇧</h3>
 
 <p align="center">
@@ -19,19 +19,19 @@
 
 ---
 
-## 🙋 About Me
+## About Me
 
 I'm **Vikasitha Malligarjunan (Vikku)** — a data professional who turns raw data into real decisions.
 
-- 🎓 **MSc Data Science with Distinction** — University of Greenwich, London
-- 🏅 **dbt Certified** · **Microsoft Power BI Certified**
-- 🏥 Currently: **Educational Officer @ University of Greenwich** — leading data quality, governance reporting & dashboards for senior leadership
-- 💼 Previously: Data Analyst @ **Indegene** (pharma) & **Cedarstone** (finance)
-- 📊 Built pipelines processing **300K+ records/month** · Cut reporting turnaround by **25%** · Saved **10+ hours/week** via automation
-- 🌍 Based in London · **Open to relocate anywhere in the UK** · Available from June 2026
+- **MSc Data Science with Distinction** — University of Greenwich, London
+- **dbt Certified** · **Microsoft Power BI Certified**
+- Currently: **Educational Officer @ University of Greenwich** — leading data quality, governance reporting & dashboards for senior leadership
+- Previously: Data Analyst @ **Indegene** (pharma) & **Cedarstone** (finance)
+- Built pipelines processing **300K+ records/month** · Cut reporting turnaround by **25%** · Saved **10+ hours/week** via automation
+- Based in London · **Open to relocate anywhere in the UK** · Available from June 2026
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -58,7 +58,7 @@ I'm **Vikasitha Malligarjunan (Vikku)** — a data professional who turns raw da
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🏥 1. [NHS RTT Waiting Times Analysis](https://github.com/Vikku272003/nhs-waiting-times)
 > End-to-end public health analytics · 228 weeks of real NHS England WLMDS data · Interactive live dashboard
@@ -75,7 +75,7 @@ I'm **Vikasitha Malligarjunan (Vikku)** — a data professional who turns raw da
 
 ---
 
-### 🎓 2. [HESA Higher Education Analytics](https://github.com/Vikku272003/hesa-analytics)
+### 2. [HESA Higher Education Analytics](https://github.com/Vikku272003/hesa-analytics)
 > UK student enrolment trends & tuition revenue impact · Power BI dashboards · 2020/21–2024/25
 
 - Automated ingestion and transformation of **raw HESA open datasets** across 5 academic years
@@ -88,7 +88,7 @@ I'm **Vikasitha Malligarjunan (Vikku)** — a data professional who turns raw da
 
 ---
 
-### 🛒 3. [Customer Analytics Pipeline](https://github.com/Vikku272003/customer-analytics-pipeline)
+### 3. [Customer Analytics Pipeline](https://github.com/Vikku272003/customer-analytics-pipeline)
 > End-to-end Python pipeline · RFM segmentation · Behavioural analysis
 
 - Production-style **modular Python ETL pipeline** built for scalability and reuse
@@ -114,7 +114,7 @@ I'm **Vikasitha Malligarjunan (Vikku)** — a data professional who turns raw da
 
 ---
 
-## 🏅 Certifications
+## Certifications
 
 | Certification | Issuer | Year |
 |---|---|---|
@@ -125,7 +125,7 @@ I'm **Vikasitha Malligarjunan (Vikku)** — a data professional who turns raw da
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm actively looking for a **data analyst / data engineer role** in the UK. If you're building a data team, I'd love to chat.
 
@@ -143,8 +143,7 @@ I'm actively looking for a **data analyst / data engineer role** in the UK. If y
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
-📍 London, UK · Open to relocate UK-wide · Hybrid / Remote 
+London, UK · Open to relocate UK-wide · Hybrid / Remote 
 
 ---
 
