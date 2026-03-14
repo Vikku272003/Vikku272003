@@ -127,7 +127,7 @@ I'm **Vikasitha Malligarjunan (Vikku)** — a data professional who turns raw da
 
 ## 🤝 Let's Connect
 
-I'm actively looking for a **sponsored permanent data analyst / data engineer role** in the UK. If you're building a data team, I'd love to chat.
+I'm actively looking for a **data analyst / data engineer role** in the UK. If you're building a data team, I'd love to chat.
 
 <p align="left">
   <a href="mailto:vikashithamn@gmail.com">
@@ -144,7 +144,7 @@ I'm actively looking for a **sponsored permanent data analyst / data engineer ro
   </a>
 </p>
 
-📍 London, UK · Open to relocate UK-wide · Hybrid / Remote · Available from June 2026
+📍 London, UK · Open to relocate UK-wide · Hybrid / Remote 
 
 ---
 
